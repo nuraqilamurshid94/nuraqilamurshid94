@@ -81,6 +81,15 @@ Molecular docking and **100 ns GROMACS molecular dynamics** of natural compounds
 
 ---
 
+## 📦 Data on Zenodo
+
+| Dataset | Access | DOI |
+|:---|:---:|:---:|
+| 🎙️ **Malaysian Voice Pathology Database (MVPD)**: voice recordings of dysphonic patients and healthy individuals from Malaysia | ![](https://img.shields.io/badge/Restricted-on%20request-f39c12?style=flat-square) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18033925.svg)](https://doi.org/10.5281/zenodo.18033925) |
+| 🌿 **Caesalpinia bonduc seed compounds**: supporting data for an integrated LC-QTOF-MS/MS and in-silico study of Alzheimer's and type 2 diabetes enzyme targets | ![](https://img.shields.io/badge/Open-access-2ecc71?style=flat-square) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23792744.svg)](https://doi.org/10.5281/zenodo.23792744) |
+
+---
+
 ## 🛠️ Toolbox
 
 **Languages and environments**<br/>
