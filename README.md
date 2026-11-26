@@ -118,7 +118,6 @@ Molecular docking and **100 ns GROMACS molecular dynamics** of natural compounds
 - 🔬 Building knowledge-graph-guided integration for **unmatched single-nucleus multi-omics** in Alzheimer's disease
 - 🏛️ Co-leading educational big data at the **UKM Faculty of Medicine Big Data Analytics and Research Unit**
 - 👩‍🏫 Facilitating **problem-based learning** for Year 1 and 2 medical students, and teaching machine learning in medicine
-- 🎓 Supervising postgraduate research on **sepsis-associated acute kidney injury** transcriptomics
 - 🌍 Heading into a **PhD in multi-omics and AI for ageing** (2027 entry)
 
 ## 🤝 Let's collaborate
