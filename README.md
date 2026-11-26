@@ -9,7 +9,8 @@
 <p>
   <a href="https://www.ukm.my/"><img src="https://img.shields.io/badge/Universiti%20Kebangsaan%20Malaysia-Faculty%20of%20Medicine-0b132b?style=for-the-badge" alt="UKM"/></a>
   <a href="https://www.researchgate.net/profile/Nuraqila-Mohd-Murshid"><img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
-  <a href="mailto:nuraqilamohdmurshid@ukm.edu.my"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/nuraqila-mohd-murshid-1511b13a9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nuraqilamohdmurshid@ukm.edu.my"><img src="https://img.shields.io/badge/Email-nuraqilamohdmurshid%40ukm.edu.my-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -123,6 +124,8 @@ Molecular docking and **100 ns GROMACS molecular dynamics** of natural compounds
 ## 🤝 Let's collaborate
 
 I am always happy to talk about **clinical data science, single-cell multi-omics, women's health and ageing**, or how to make hospital data in Southeast Asia research-ready. Open to collaborations, co-supervision and student projects.
+
+📧 **Email:** [nuraqilamohdmurshid@ukm.edu.my](mailto:nuraqilamohdmurshid@ukm.edu.my) &nbsp;·&nbsp; 💼 **LinkedIn:** [Nuraqila Mohd Murshid](https://www.linkedin.com/in/nuraqila-mohd-murshid-1511b13a9/)
 
 <div align="center">
 
