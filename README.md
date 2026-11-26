@@ -26,9 +26,9 @@ So I moved from the ward to code. I completed a **Master of Bioinformatics at Un
 
 <div align="center">
 
-| 🏥 **4 yrs** | 🧠 **553,738** | 🔬 **1,500+** | 🎓 **3.96** |
-|:---:|:---:|:---:|:---:|
-| frontline clinical medicine | single nuclei integrated across AD, PD and HD | clinical gel images behind an edge-AI diagnostic app | CGPA, MSc Bioinformatics (UM) |
+| 🏥 **4 yrs** | 🧠 **553,738** | 🎓 **3.96** |
+|:---:|:---:|:---:|
+| frontline clinical medicine | single nuclei integrated across AD, PD and HD | CGPA, MSc Bioinformatics (UM) |
 
 </div>
 
@@ -47,7 +47,7 @@ Single-nucleus and multi-omics analysis of **Alzheimer's, Parkinson's and Huntin
 <td width="50%" valign="top">
 
 ### 🏥 Clinical AI from real hospital data
-NLP, computer vision and ML built on **Malaysian hospital records**: automated ICD-11 coding of discharge notes, point-of-care immunofixation screening, and allergy registry prediction.
+Machine learning on **real Malaysian hospital data**, from allergy clinic registries to routine laboratory results, built so clinicians can trust and use it.
 
 </td>
 </tr>
@@ -73,8 +73,6 @@ Molecular docking and **100 ns GROMACS molecular dynamics** of natural compounds
 
 | Project | What it does | Status |
 |:---|:---|:---:|
-| 📱 **MediSnap-IFE** | On-device CNN that reads immunofixation electrophoresis gels at the point of care for myeloma screening. Trained on 1,500+ annotated images. **84.3% exact-diagnosis accuracy, macro AUC 0.965**, with Grad-CAM explanations and a human-in-the-loop safety net. [Live demo →](https://ife.drhathim.com) | ![](https://img.shields.io/badge/Exhibited-DASH%202026-5bc0be?style=flat-square) |
-| 🧾 **Automated ICD-11 coding** | End-to-end NLP pipeline on code-switched Malay/English discharge summaries: de-identification, WHO ICD-11 API retrieval, transformer models and a FastAPI service. Quantifies what anonymisation costs clinical language models. | ![](https://img.shields.io/badge/Under%20review-J%20Med%20Syst-f39c12?style=flat-square) |
 | 🧬 **Pan-neurodegeneration snRNA-seq atlas** | Integrated 4 public datasets (553,738 nuclei) to find conserved and disease-specific cell-type programmes across AD, PD and HD. Seurat, Harmony, clusterProfiler, STRING. | ![](https://img.shields.io/badge/MSc%20thesis-Completed-2ecc71?style=flat-square) |
 | 📉 **Do network gene signatures transfer?** | Controlled comparison of key-driver vs differential-expression feature selection in Alzheimer's brain transcriptomics, with nested CV and external validation. Reported per TRIPOD+AI. | ![](https://img.shields.io/badge/Manuscript-In%20preparation-95a5a6?style=flat-square) |
 | 🩸 **ML for myeloma electrophoresis** | Scoping review of machine learning for serum protein and immunofixation electrophoresis in multiple myeloma. | ![](https://img.shields.io/badge/Published-Diagnostics%20(MDPI)-2ecc71?style=flat-square) |
